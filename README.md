@@ -14,15 +14,6 @@ Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express.js, React,
 - **Version Control:** Git, GitHub
 - **Deployment:** Heroku, Netlify, Vercel
 - **Others:** RESTful APIs, JSON, AJAX, Postman
-
-## Projects
-
-### [College Website]
-Brief description of the project, its purpose, and technologies used. Include any interesting features or challenges faced.
-
-GitHub Repository: [https://github.com/alihusnain010203/project_college_website/tree/c20159f197c56d74c4b646c345458a3b17a16a4f]
-Live Demo: [[Demo URL](https://adp-it.netlify.app/)]
-
 ## Connect with Me
 
 Feel free to reach out to me! I'm always excited to connect with fellow developers and tech enthusiasts.
