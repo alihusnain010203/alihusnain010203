@@ -14,9 +14,10 @@ Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express.js, React,
 - **Version Control:** Git, GitHub
 - **Deployment:** Heroku, Netlify, Vercel
 - **Others:** RESTful APIs, JSON, AJAX, Postman
-## Connect with Me
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alihusnain010203)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=alihusnain010203)](https://git.io/streak-stats)
+
+## Connect with Me
 
 Feel free to reach out to me! I'm always excited to connect with fellow developers and tech enthusiasts.
 
