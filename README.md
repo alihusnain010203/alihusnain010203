@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express.js, React,
 - **Others:** RESTful APIs, JSON, AJAX, Postman
 ## Connect with Me
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alihusnain010203)](https://git.io/streak-stats)
+
 Feel free to reach out to me! I'm always excited to connect with fellow developers and tech enthusiasts.
 
 - LinkedIn: [[LinkedIn Profile URL](www.linkedin.com/in/alihusnainmalik)]
