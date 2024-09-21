@@ -14,8 +14,24 @@ Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express.js, React,
 - **Version Control:** Git, GitHub
 - **Deployment:** Heroku, Netlify, Vercel
 - **Others:** RESTful APIs, JSON, AJAX, Postman
-
+<div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=alihusnain010203)](https://git.io/streak-stats)
+</div>
+<br>
+
+ 
+ <h2>⚡️GitHub Analytics
+ </h2>
+
+<p align="center">
+<a href="https://github.com/MrSohaibAhmed">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrSohaibAhmed&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrSohaibAhmed&layout=compact&langs_count=8&theme=dark"/>
+</a>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSohaibAhmed&show_icons=true&locale=en&layout=demo&theme=dark" />
+</p>
+</p>
+<br>
 
 ## Connect with Me
 
