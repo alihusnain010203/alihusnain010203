@@ -21,10 +21,6 @@ Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express.js, React,
  </h2>
 
 <p align="center">
-<a href="https://github.com/alihusnain010203">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihusnain010203&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alihusnain010203&layout=compact&langs_count=8&theme=dark"/>
-</a>
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=alihusnain010203&show_icons=true&locale=en&layout=demo&theme=dark" />
 </p>
 </p>
