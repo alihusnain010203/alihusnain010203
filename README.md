@@ -19,6 +19,9 @@ Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express.js, React,
  
  <h2>⚡️GitHub Analytics
  </h2>
+ <p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=alihusnain010203&show_icons=true&locale=en&layout=demo&theme=dark" />
+</p>
 
 
 </p>
